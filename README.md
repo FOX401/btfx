@@ -18,7 +18,7 @@
 Antes de executar o comando abaixo, certifique-se de estar no diretório do projeto que
 você acabou de clonar !!
 ```bash
-> cd termux-wabot
+> cd btfx
 > bash install.sh
 ```
 

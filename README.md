@@ -7,15 +7,8 @@
 <p align="center">
 <a href="https://github.com/mhankbarbar"><img title="dono" src="https://img.shields.io/badge/Author-Fox-red.svg?style=for-the-badge&logo=github"></a>
 </p>
-<p align="center">
-<a href="https://github.com/mhankbarbar/followers"><img title="Followers" src="https://img.shields.io/github/followers/mhankbarbar?color=blue&style=flat-square"></a>
-<a href="https://github.com/mhankbarbar/termux-wabot/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/mhankbarbar/termux-wabot?color=red&style=flat-square"></a>
-<a href="https://github.com/mhankbarbar/termux-wabot/network/members"><img title="Forks" src="https://img.shields.io/github/forks/mhankbarbar/termux-wabot?color=red&style=flat-square"></a>
-<a href="https://github.com/mhankbarbar/termux-wabot/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/mhankbarbar/termux-wabot?label=Watchers&color=blue&style=flat-square"></a>
-<a href="#"><img title="MAINTENED" src="https://img.shields.io/badge/MAINTENED-YES-blue.svg"</a>
-</p>
 
-## Clone this project
+## Clone este projeto
 
 ```bash
 > git clone https://github.com/FOX401/btfx
@@ -49,32 +42,6 @@ prefix = .
 | ✅ | Enviar vídeo ou GIF com legenda |
 | ✅ | Responder um adesivo (adesivo na imagem) |
 
-| Outro | Recurso |
-
-| : ------------: | : ---------------------------------------------: |
-| ✅ | Obtenha um meme aleatório |
-| ✅ | Texto para fala |
-| ✅ | Recurso de escrita |
-| ✅ | O que é esse anime |
-| ✅ | Url2Img (Web Screeenshot) |
-| ✅ | Simsimi |
-| Grupo | Recurso |
-
-| : -----------: | : --------------------------------: |
-| ✅ | Membro Tagall / Mentionall |
-| ✅ | Tagall2 / membro Mentionall |
-| ✅ | Tagall3 / membro Mentionall |
-| ✅ | Kick Member Group |
-| ✅ | Adicionar grupo de membros |
-| ✅ | Obter Grupo de Administradores de Lista |
-| ✅ | Obter link de convite de grupo |
-| ✅ | O bot sai do grupo |
-| Owner Bot | Recurso |
-
-| : -----------: | : --------------------------------: |
-| ✅ | Definir prefixo |
-| ✅ | Broadcast |
-| ✅ | Limpar todos os chats |
 
 ## Agradecimentos especiais para
 * [`adiwajshing/Baileys`](https://github.com/adiwajshing/Baileys)
